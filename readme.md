@@ -1,5 +1,9 @@
 # Spatial filter for time-series data
 * Implementation of [An Empirical Evaluation of Denoising Techniques for Streaming Data](https://e-reports-ext.llnl.gov/pdf/780495.pdf)
+    - Box filter
+    - Gaussian filter
+    - Bilateral filter
+    - Non local mean filter
 * Only for off-line evaluation
 
 ![](imgs/box.png)
